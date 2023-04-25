@@ -3,7 +3,7 @@
 1.  the code of SGNN-T is in SGNN-T.py 
 2.  the process of dataset production is in the data.py
 3.  the training process in in the train.py 
-4.  the data used for training and test are in the data file. the raw data is from Qm9 , OMDB and MEGnet. Due to the large size of the MEGnet dataset, in order to avoid restrictions on GitHub repository access, if necessary, you can download it from the official websitehttps://pypi.org/project/megnet/#datasets
+4.  the data used for training and test are in the data file. the raw data is from Qm9 , OMDB and MEGnet. Due to the large size of the MEGnet dataset, in order to avoid restrictions on GitHub repository access, if necessary, you can download it from the official website https://pypi.org/project/megnet/#datasets
 
 # Dependencies 
 
